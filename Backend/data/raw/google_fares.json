@@ -1,0 +1,90 @@
+[
+  {
+    "source": "Google Flights",
+    "airline": "Air India",
+    "origin": "DEL",
+    "destination": "BOM",
+    "departure_date": "2026-09-20",
+    "booking_window": 15,
+    "fare": 33780,
+    "currency": "INR",
+    "collected_at": "2026-09-05T11:42:47.772663+00:00"
+  },
+  {
+    "source": "Google Flights",
+    "airline": "IndiGo",
+    "origin": "DEL",
+    "destination": "BOM",
+    "departure_date": "2026-09-20",
+    "booking_window": 15,
+    "fare": 34927,
+    "currency": "INR",
+    "collected_at": "2026-09-05T11:42:47.772702+00:00"
+  },
+  {
+    "source": "Google Flights",
+    "airline": "IndiGo",
+    "origin": "DEL",
+    "destination": "BOM",
+    "departure_date": "2026-09-20",
+    "booking_window": 15,
+    "fare": 36208,
+    "currency": "INR",
+    "collected_at": "2026-09-05T11:42:47.772747+00:00"
+  },
+  {
+    "source": "Google Flights",
+    "airline": "Air India",
+    "origin": "DEL",
+    "destination": "BOM",
+    "departure_date": "2026-09-20",
+    "booking_window": 15,
+    "fare": 37823,
+    "currency": "INR",
+    "collected_at": "2026-09-05T11:42:47.772765+00:00"
+  },
+  {
+    "source": "Google Flights",
+    "airline": "Air India",
+    "origin": "DEL",
+    "destination": "BOM",
+    "departure_date": "2026-09-20",
+    "booking_window": 15,
+    "fare": 37823,
+    "currency": "INR",
+    "collected_at": "2026-09-05T11:42:47.772783+00:00"
+  },
+  {
+    "source": "Google Flights",
+    "airline": "Air India",
+    "origin": "DEL",
+    "destination": "BOM",
+    "departure_date": "2026-09-20",
+    "booking_window": 15,
+    "fare": 42128,
+    "currency": "INR",
+    "collected_at": "2026-09-05T11:42:47.772810+00:00"
+  },
+  {
+    "source": "Google Flights",
+    "airline": "SpiceJet",
+    "origin": "DEL",
+    "destination": "BOM",
+    "departure_date": "2026-09-20",
+    "booking_window": 15,
+    "fare": 49071,
+    "currency": "INR",
+    "collected_at": "2026-09-05T11:42:47.772827+00:00"
+  },
+  {
+    "source": "Google Flights",
+    "airline": "SpiceJet",
+    "origin": "DEL",
+    "destination": "BOM",
+    "departure_date": "2026-09-20",
+    "booking_window": 15,
+    "fare": 49071,
+    "currency": "INR",
+    "collected_at": "2026-09-05T11:42:47.772844+00:00"
+  }
+]

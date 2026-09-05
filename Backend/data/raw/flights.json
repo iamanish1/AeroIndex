@@ -1,0 +1,122 @@
+[
+    {
+      "airline": "IndiGo",
+      "from": "Delhi",
+      "to": "Mumbai",
+      "departure_date": "2026-09-20",
+      "booking_date": "2026-09-05",
+      "booking_window": 15,
+      "fare": 6240,
+      "currency": "INR",
+      "source": "public_airfare_source",
+      "collected_at": "2026-09-05T10:30:00"
+    },
+    {
+      "airline": "Air India",
+      "from": "Delhi",
+      "to": "Mumbai",
+      "departure_date": "2026-09-20",
+      "booking_date": "2026-09-05",
+      "booking_window": 15,
+      "fare": 6820,
+      "currency": "INR",
+      "source": "public_airfare_source",
+      "collected_at": "2026-09-05T10:30:00"
+    },
+    {
+      "airline": "SpiceJet",
+      "from": "Delhi",
+      "to": "Mumbai",
+      "departure_date": "2026-09-20",
+      "booking_date": "2026-09-05",
+      "booking_window": 15,
+      "fare": 5980,
+      "currency": "INR",
+      "source": "public_airfare_source",
+      "collected_at": "2026-09-05T10:30:00"
+    },
+    {
+      "airline": "IndiGo",
+      "from": "Mumbai",
+      "to": "Bangalore",
+      "departure_date": "2026-09-20",
+      "booking_date": "2026-09-05",
+      "booking_window": 15,
+      "fare": 5740,
+      "currency": "INR",
+      "source": "public_airfare_source",
+      "collected_at": "2026-09-05T10:30:00"
+    },
+    {
+      "airline": "Air India",
+      "from": "Mumbai",
+      "to": "Bangalore",
+      "departure_date": "2026-09-20",
+      "booking_date": "2026-09-05",
+      "booking_window": 15,
+      "fare": 6320,
+      "currency": "INR",
+      "source": "public_airfare_source",
+      "collected_at": "2026-09-05T10:30:00"
+    },
+    {
+      "airline": "IndiGo",
+      "from": "Delhi",
+      "to": "Bangalore",
+      "departure_date": "2026-09-20",
+      "booking_date": "2026-09-05",
+      "booking_window": 15,
+      "fare": 7460,
+      "currency": "INR",
+      "source": "public_airfare_source",
+      "collected_at": "2026-09-05T10:30:00"
+    },
+    {
+      "airline": "Air India",
+      "from": "Delhi",
+      "to": "Bangalore",
+      "departure_date": "2026-09-20",
+      "booking_date": "2026-09-05",
+      "booking_window": 15,
+      "fare": 8120,
+      "currency": "INR",
+      "source": "public_airfare_source",
+      "collected_at": "2026-09-05T10:30:00"
+    },
+    {
+      "airline": "IndiGo",
+      "from": "Delhi",
+      "to": "Kolkata",
+      "departure_date": "2026-09-20",
+      "booking_date": "2026-09-05",
+      "booking_window": 15,
+      "fare": 6840,
+      "currency": "INR",
+      "source": "public_airfare_source",
+      "collected_at": "2026-09-05T10:30:00"
+    },
+    {
+      "airline": "IndiGo",
+      "from": "Mumbai",
+      "to": "Kolkata",
+      "departure_date": "2026-09-20",
+      "booking_date": "2026-09-05",
+      "booking_window": 15,
+      "fare": 7920,
+      "currency": "INR",
+      "source": "public_airfare_source",
+      "collected_at": "2026-09-05T10:30:00"
+    },
+    {
+      "airline": "IndiGo",
+      "from": "Bangalore",
+      "to": "Hyderabad",
+      "departure_date": "2026-09-20",
+      "booking_date": "2026-09-05",
+      "booking_window": 15,
+      "fare": 4280,
+      "currency": "INR",
+      "source": "public_airfare_source",
+      "collected_at": "2026-09-05T10:30:00"
+    }
+  ]
